@@ -1,6 +1,5 @@
 ##                                                           Army Building 3D OpenGL Project
-##                                                                                                                     Mostafa Ashraf 18107667
-
+Bachelor project
 
 ## Project OverView :
 
